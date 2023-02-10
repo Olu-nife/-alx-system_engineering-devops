@@ -1,2 +1,2 @@
 #!/bin/bash
-chowni -h vincent:staff* _hello
+chow --from=guillaume betty hello
